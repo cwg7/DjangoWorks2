@@ -1,11 +1,8 @@
-.myClass{
+.divClass{
     color: orange;
 }
 
-#one{
-    color: blue;
-}
-
-#two{
-    color:red;
+#divId{
+    background-color: aqua;
+    color: purple;
 }
